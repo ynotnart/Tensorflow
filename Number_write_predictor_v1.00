@@ -1,11 +1,11 @@
 
-# Letter_write_predictor_v1.00
+# Number_write_predictor_v1.00
 # Tensorflow example. 
 # Created: 10/29/2025
 # Source: ChatGPT
 # This script will identify manual letterwriting and make predictions.
 #
-#
+# by Tony Tran
 
 
 import os
